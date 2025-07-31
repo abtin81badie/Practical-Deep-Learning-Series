@@ -1,11 +1,11 @@
 # Deep Learning Course Workshops
 
-<div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-    <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge&logoColor=white" alt="NLP">
-    <img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logoColor=white" alt="Deep Learning">
-</div>
+<div align="center"\>
+<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python"\>
+<img src="[https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)" alt="PyTorch"\>
+<img src="[https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge\&logoColor=white](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge&logoColor=white)" alt="NLP"\>
+<img src="[https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge\&logoColor=white](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logoColor=white)" alt="Deep Learning"\>
+</div\>
 
 This repository contains a series of hands-on workshops designed for a deep learning course. Each workshop focuses on a specific topic, providing practical experience with fundamental concepts and popular frameworks in the field.
 
