@@ -1,27 +1,28 @@
 # Deep Learning Course Workshops
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge&logoColor=white" alt="NLP">
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logoColor=white" alt="Deep Learning">
-</div>
+\<div align="center"\>
+\<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python"\>
+\<img src="[https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)" alt="PyTorch"\>
+\<img src="[https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge\&logoColor=white](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge&logoColor=white)" alt="NLP"\>
+\<img src="[https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge\&logoColor=white](https://img.shields.io/badge/Deep%20Learning-FF6F61?style=for-the-badge&logoColor=white)" alt="Deep Learning"\>
+\</div\>
 
 This repository contains a series of hands-on workshops designed for a deep learning course. Each workshop focuses on a specific topic, providing practical experience with fundamental concepts and popular frameworks in the field.
 
 ## 📚 Table of Contents
 
-1. [Workshop 1: NumPy Fundamentals](#workshop-1-numpy-fundamentals)
-2. [Workshop 2: Introduction to Pandas](#workshop-2-introduction-to-pandas)
-3. [Workshop 3: Introduction to PyTorch](#workshop-3-introduction-to-pytorch)
-4. [Workshop 4: Convolutional Neural Networks (CNNs)](#workshop-4-convolutional-neural-networks-cnns)
-5. [Workshop 5: NLP and Recurrent Neural Networks (RNNs)](#workshop-5-nlp-and-recurrent-neural-networks-rnns)
-6. [Workshop 6: Transformers from Scratch](#workshop-6-transformers-from-scratch)
-7. [Workshop 7: Language Models and Parameter-Efficient Fine-Tuning](#workshop-7-language-models-and-parameter-efficient-fine-tuning)
+1.  [Workshop 1: NumPy Fundamentals](https://www.google.com/search?q=%23workshop-1-numpy-fundamentals)
+2.  [Workshop 2: Introduction to Pandas](https://www.google.com/search?q=%23workshop-2-introduction-to-pandas)
+3.  [Workshop 3: Introduction to PyTorch](https://www.google.com/search?q=%23workshop-3-introduction-to-pytorch)
+4.  [Workshop 4: Convolutional Neural Networks (CNNs)](https://www.google.com/search?q=%23workshop-4-convolutional-neural-networks-cnns)
+5.  [Workshop 5: NLP and Recurrent Neural Networks (RNNs)](https://www.google.com/search?q=%23workshop-5-nlp-and-recurrent-neural-networks-rnns)
+6.  [Workshop 6: Transformers from Scratch](https://www.google.com/search?q=%23workshop-6-transformers-from-scratch)
+7.  [Workshop 7: Language Models and Parameter-Efficient Fine-Tuning](https://www.google.com/search?q=%23workshop-7-language-models-and-parameter-efficient-fine-tuning)
+8.  [Workshop 8: Generative Models and LoRA Fine-Tuning](https://www.google.com/search?q=%23workshop-8-generative-models-and-lora-fine-tuning)
 
 ---
 
-## Workshop 1: NumPy Fundamentals ([WS_1.ipynb](WS_1.ipynb))
+## Workshop 1: NumPy Fundamentals ([WS_1.ipynb](https://www.google.com/search?q=WS_1.ipynb))
 
 This workshop covers the basics of NumPy, an essential library for numerical computing in Python and a foundational block for deep learning.
 
@@ -34,7 +35,7 @@ This workshop covers the basics of NumPy, an essential library for numerical com
 
 ---
 
-## Workshop 2: Introduction to Pandas ([WS_2.ipynb](WS_2.ipynb))
+## Workshop 2: Introduction to Pandas ([WS_2.ipynb](https://www.google.com/search?q=WS_2.ipynb))
 
 This workshop introduces pandas, a powerful library for data manipulation and analysis.
 
@@ -47,7 +48,7 @@ This workshop introduces pandas, a powerful library for data manipulation and an
 
 ---
 
-## Workshop 3: Introduction to PyTorch ([workshop_3.ipynb](workshop_3.ipynb))
+## Workshop 3: Introduction to PyTorch ([workshop_3.ipynb](https://www.google.com/search?q=workshop_3.ipynb))
 
 This workshop covers the fundamental concepts of the PyTorch deep learning framework.
 
@@ -60,7 +61,7 @@ This workshop covers the fundamental concepts of the PyTorch deep learning frame
 
 ---
 
-## Workshop 4: Convolutional Neural Networks (CNNs) ([workshop_4.ipynb](workshop_4.ipynb))
+## Workshop 4: Convolutional Neural Networks (CNNs) ([workshop_4.ipynb](https://www.google.com/search?q=workshop_4.ipynb))
 
 This workshop dives into the basics of Convolutional Neural Networks (CNNs), widely used for image recognition and processing tasks.
 
@@ -77,18 +78,18 @@ This workshop dives into the basics of Convolutional Neural Networks (CNNs), wid
 
 This section is divided into two parts, focusing on Natural Language Processing (NLP) and Recurrent Neural Networks (RNNs).
 
-### Part 1: Toxic Comment Classification ([WS5_T1.ipynb](WS5_T1.ipynb))
+### Part 1: Toxic Comment Classification ([WS5_T1.ipynb](https://www.google.com/search?q=WS5_T1.ipynb))
 
 - Learn how to use an RNN to classify comments as toxic or non-toxic
 
-### Part 2: Time Series Forecasting ([WS5_T2_MyModel.ipynb](WS5_T2_MyModel.ipynb), [WS5_T2_QuestionModel.ipynb](WS5_T2_QuestionModel.ipynb))
+### Part 2: Time Series Forecasting ([WS5_T2_MyModel.ipynb](https://www.google.com/search?q=WS5_T2_MyModel.ipynb), [WS5_T2_QuestionModel.ipynb](https://www.google.com/search?q=WS5_T2_QuestionModel.ipynb))
 
 - Use a Long Short-Term Memory (LSTM) model to predict Bitcoin prices
 - Analyze how the look-back period affects model performance
 
 ---
 
-## Workshop 6: Transformers from Scratch ([WS_6.ipynb](WS_6.ipynb))
+## Workshop 6: Transformers from Scratch ([WS_6.ipynb](https://www.google.com/search?q=WS_6.ipynb))
 
 This workshop guides you through implementing a Transformer model from the ground up, a model architecture that has revolutionized NLP.
 
@@ -99,7 +100,7 @@ This workshop guides you through implementing a Transformer model from the groun
 
 ---
 
-## Workshop 7: Language Models and Parameter-Efficient Fine-Tuning ([WS_7.ipynb](WS_7.ipynb))
+## Workshop 7: Language Models and Parameter-Efficient Fine-Tuning ([WS_7.ipynb](https://www.google.com/search?q=WS_7.ipynb))
 
 This workshop explores advanced topics in language modeling and efficient model adaptation techniques.
 
@@ -116,10 +117,23 @@ This workshop explores advanced topics in language modeling and efficient model 
 
 ---
 
+## Workshop 8: Generative Models and LoRA Fine-Tuning ([WS_8/WorkShop_8.ipynb](https://www.google.com/search?q=WS_8/WorkShop_8.ipynb))
+
+This final workshop explores generative models, including GANs, VAEs, and Diffusion models. The main task involves fine-tuning a pre-trained **Stable Diffusion** model on a medical dataset using **Low-Rank Adaptation (LoRA)**. The task notebooks, with models trained for 1 and 5 epochs, can be found in the `WS_8/Task` directory.
+
+### 🔍 Key Topics:
+
+- **Conditional GANs (CGANs):** Building a CGAN from scratch to generate MNIST digits based on class labels.
+- **Variational Autoencoders (VAEs):** Implementing Encoder, Decoder, and the reparameterization trick to build a VAE and visualize its latent space.
+- **Stable Diffusion:** An introduction to the components and workflow of modern text-to-image diffusion models.
+- **LoRA Fine-Tuning Task:** A self-supervised task to fine-tune Stable Diffusion on chest X-ray images and clinical notes by implementing custom `LoRALinear` layers to adapt the model efficiently.
+
+---
+
 ## 📜 License
 
 This project is part of academic coursework. Please refer to individual workshop notebooks for specific licensing information.
 
-<div align="center">
-  <strong>Happy Learning! 🚀</strong>
-</div>
+\<div align="center"\>
+\<strong\>Happy Learning\! 🚀\</strong\>
+\</div\>
